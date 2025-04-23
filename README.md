@@ -8,4 +8,4 @@ The HCP-YA_overlay_IA_masks.zip file contains all the IA's masks by subject. Tho
 
 HCP_PVE_results.ods file is the output sheet of the FSL FAST segmentation overlapped with the IA's mask to estimate the partial volume effect (PVE, i.e mean rate of CSV).
 
-SNAP_IA_HCP-YA.ods is the file with the IA's characterization, including its presence or absence, anatomical variant, and area corrected by the PVE.
+SNAP_IA_HCP-YA_github.ods is the file with the IA's characterization, including its presence or absence, anatomical variant, and area corrected by the PVE.
